@@ -1,0 +1,21 @@
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\Mike\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\Mike\Desktop\Desktop Archive\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\Mike\Desktop\Desktop Archive\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\Mike\Desktop\Desktop Archive\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\Mike\Documents\GitHub\fayan\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
